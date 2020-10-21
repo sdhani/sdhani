@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/xsM5h5vsUMgv2TemIZ/giphy.gif" width="100%">
+
 ### [🍄](https://www.linkedin.com/in/shania-dhani/)
 
 <!--
