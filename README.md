@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/xsM5h5vsUMgv2TemIZ/giphy.gif" width="100%">](https://www.linkedin.com/in/shania-dhani/)
+[<img src="name-github.gif" width="100%">](https://www.linkedin.com/in/shania-dhani/)
 
 <!--
 **sdhani/sdhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
